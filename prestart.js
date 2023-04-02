@@ -9,7 +9,7 @@
 sc.OPTIONS_DEFINITION["keys-jump-button"] = {
 	type: "CONTROLS",
 	init: {
-		key1: ig.KEY.V,
+		key1: ig.KEY.C,
 		key2: undefined
 	},
 	cat: sc.OPTION_CATEGORY.CONTROLS,
