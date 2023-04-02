@@ -1,0 +1,12 @@
+{
+	"id": "yoshi-jump-button",
+	"version": "0.1.0",
+	"module": true,
+	"title": "Jump Button",
+	"description": "The latest in innovation: a manual jump button!",
+	"prestart": "prestart.js",
+	"poststart": "poststart.js",
+	"dependencies": {
+		"input-api": "^1.0.0"
+	}
+}
